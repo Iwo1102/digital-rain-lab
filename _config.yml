@@ -1,1 +1,9 @@
+# Site settings
+title: Digital Rain C++ Project Blog
+author:
+  name: Iwo Kania
+  email: real_email@gmail.com
+description: "Bloggers"
 
+#Build settings
+remote_theme: jekyll/minima
