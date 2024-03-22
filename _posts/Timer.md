@@ -9,8 +9,8 @@ categories: demo
 I originally wanted to uses a non-blocking timer so that there wouldn't be a delay when displaying the *drops*.  
 
 ## code of Timer.h:
-
-``#ifndef TIMER_H
+```
+#ifndef TIMER_H
 #define TIMER_H
 
 #include <iostream>
@@ -40,7 +40,8 @@ private:
 };
 
 
-#endif // !TIMER_H`
+#endif // !TIMER_H
+```
 
 # Desired Features:
 
