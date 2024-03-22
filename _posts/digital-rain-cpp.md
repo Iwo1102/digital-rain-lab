@@ -13,7 +13,7 @@ The way I decided to make this project was to have each line or *drop* be create
 Radomise character string:
 rand and convert to ascii
 
-Every 1 second a new line is created in a random position with a random length
+Every 0.1 seconds a new line is created in a random position with a random length
 
 The line does down 1 y position every 0.5 seconds with and once line length is reached it starts deleting top most characters
 After y = 0 characters delete
