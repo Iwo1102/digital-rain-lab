@@ -51,6 +51,7 @@ void Rain::randomise(int var) {
 ```
 
 `std::uniform_int_distribution<int>` creates a unifrom distribution object depending on your min and max distribution.
+
 `std::random_device rand` uses the machine's data to create as a seed for a random data, making it impossible to predict what it returns.
 
 The switch case randomises the different values based on the enum of RandomiseType was given.
