@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Welcome to the GamerSpace
+This is the C++ Digital Rain Mini Project
