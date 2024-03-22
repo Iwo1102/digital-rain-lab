@@ -5,10 +5,10 @@ tags: cpp coding project
 categories: demo
 ---
 
-#Introduction
+# Introduction
 The way I decided to make this project was to have each line or *drop* be created by seperate objects with each in a seprate thread. This was so that there would be as little delay as possible when printing the lines.
 
-#Desired Features:
+# Desired Features:
 
 Radomise character string:
 rand and convert to ascii
